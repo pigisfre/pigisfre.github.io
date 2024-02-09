@@ -1,0 +1,74 @@
+.coach{
+    background-color: #ffffff;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.title{
+    display: flex;
+    
+}
+
+.title > h1 {
+    margin: 20px;
+    color: #ff7514;
+    
+}
+
+
+.section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.description {
+    display: flex;
+    flex-direction: column; 
+}
+
+.description > h2 {
+    color: #246b74;
+}
+
+.description > p {
+    color: black;
+    font-size: larger;
+}
+.photo-profile {
+    display: flex;
+   justify-content: space-around;
+}
+
+.card-profile{
+    cursor: pointer;
+    width: 300px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    border: 1px solid #ff7514;
+    transition: all .2s;
+    box-shadow: 12px 12px 2px 1px #246b74 ;
+   }
+   
+   .card-profile:hover {
+    box-shadow: -12px 12px 2px -1px #246b74;
+   }
+
+
+
+   @media only screen and (max-width: 800px) {
+    .coach{
+        background-color: #ffffff;
+        display: flex;
+        height: fit-content;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        padding-bottom: 50px;
+    }
+   }
+   
+
+

@@ -1,0 +1,32 @@
+.social {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    
+}
+
+
+.social-item{
+    text-align: center;
+}
+.contatti {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.struttura{
+    display: flex;
+    flex-direction: column;
+}
+
+.slog {
+    display: flex;
+    justify-content: center;
+}
+
+.slog p{
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+}

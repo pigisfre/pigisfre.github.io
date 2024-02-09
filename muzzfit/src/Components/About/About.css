@@ -1,0 +1,123 @@
+.small-classes-slide{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('./omid-armin-rAh9rA53UWk-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    height: 600px;
+}
+
+.stretch-recovery-slide{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('./sarah-cervantes-H8WTALuL7KM-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    height: 600px;
+}
+
+.personal-training-slide{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('./stacco.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    height: 600px;
+}
+
+.functional-training-slide{
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    background-image: url('./brian-vo-cbRZCj59LZw-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    background-size: cover;
+    height: 600px;
+}
+
+
+.about-us {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+
+}
+
+.about-us h1 {
+    color: #246b74;
+    margin-bottom: 0;
+}
+
+.about-us p {
+    margin: 0;
+    padding: 0;
+}
+
+.offerta {
+    align-self: center;
+}
+
+@media only screen and (max-width: 600px) {
+     
+    .small-classes-slide{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-image: url('./omid-armin-rAh9rA53UWk-unsplash.jpg');
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-size: cover;
+        height: 600px;
+    }
+    
+    .stretch-recovery-slide{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-image: url('./sarah-cervantes-H8WTALuL7KM-unsplash.jpg');
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-size: cover;
+        height: 600px;
+    }
+
+    .personal-training-slide{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-image: url('./stacco.jpg');
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-size: cover;
+        height: 600px;
+    }
+    
+    .functional-training-slide{
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        background-image: url('./brian-vo-cbRZCj59LZw-unsplash.jpg');
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-size: cover;
+        height: 600px;
+    }
+
+    .offerta {
+        align-self: center;
+        margin-bottom: 10px;
+    }
+    
+    
+   }

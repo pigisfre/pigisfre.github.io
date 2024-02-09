@@ -1,0 +1,14 @@
+/* App.css */
+/* You can define fonts here or import them from an external source */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+/* Then apply the font to your components */
+.App {
+  font-family: 'Bebas Neue', sans-serif;
+  
+}
+
