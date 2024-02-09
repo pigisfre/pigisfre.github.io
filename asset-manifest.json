@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gymland/static/css/main.dbbeb0b4.css",
-    "main.js": "/gymland/static/js/main.d3eae85b.js",
-    "static/js/592.0101b49b.chunk.js": "/gymland/static/js/592.0101b49b.chunk.js",
-    "static/media/pt.jpg": "/gymland/static/media/pt.96affeab7a2fc084484e.jpg",
-    "static/media/brian-vo-cbRZCj59LZw-unsplash.jpg": "/gymland/static/media/brian-vo-cbRZCj59LZw-unsplash.de5d24d8bd48a22ec403.jpg",
-    "static/media/omid-armin-rAh9rA53UWk-unsplash.jpg": "/gymland/static/media/omid-armin-rAh9rA53UWk-unsplash.c42617fe1aefc4ffafba.jpg",
-    "static/media/sarah-cervantes-H8WTALuL7KM-unsplash.jpg": "/gymland/static/media/sarah-cervantes-H8WTALuL7KM-unsplash.71f39a270dea33357e3b.jpg",
-    "static/media/stacco.jpg": "/gymland/static/media/stacco.a8f5c166ec478244cc9b.jpg",
-    "static/media/muzzlogo.jpg": "/gymland/static/media/muzzlogo.268ddf575bf003fec871.jpg",
-    "index.html": "/gymland/index.html",
-    "main.dbbeb0b4.css.map": "/gymland/static/css/main.dbbeb0b4.css.map",
-    "main.d3eae85b.js.map": "/gymland/static/js/main.d3eae85b.js.map",
-    "592.0101b49b.chunk.js.map": "/gymland/static/js/592.0101b49b.chunk.js.map"
+    "main.css": "/muzzfit/static/css/main.90aff9a4.css",
+    "main.js": "/muzzfit/static/js/main.20c5b5b9.js",
+    "static/js/592.0101b49b.chunk.js": "/muzzfit/static/js/592.0101b49b.chunk.js",
+    "static/media/pt.jpg": "/muzzfit/static/media/pt.96affeab7a2fc084484e.jpg",
+    "static/media/brian-vo-cbRZCj59LZw-unsplash.jpg": "/muzzfit/static/media/brian-vo-cbRZCj59LZw-unsplash.de5d24d8bd48a22ec403.jpg",
+    "static/media/omid-armin-rAh9rA53UWk-unsplash.jpg": "/muzzfit/static/media/omid-armin-rAh9rA53UWk-unsplash.c42617fe1aefc4ffafba.jpg",
+    "static/media/sarah-cervantes-H8WTALuL7KM-unsplash.jpg": "/muzzfit/static/media/sarah-cervantes-H8WTALuL7KM-unsplash.71f39a270dea33357e3b.jpg",
+    "static/media/stacco.jpg": "/muzzfit/static/media/stacco.a8f5c166ec478244cc9b.jpg",
+    "static/media/muzzlogo.jpg": "/muzzfit/static/media/muzzlogo.268ddf575bf003fec871.jpg",
+    "index.html": "/muzzfit/index.html",
+    "main.90aff9a4.css.map": "/muzzfit/static/css/main.90aff9a4.css.map",
+    "main.20c5b5b9.js.map": "/muzzfit/static/js/main.20c5b5b9.js.map",
+    "592.0101b49b.chunk.js.map": "/muzzfit/static/js/592.0101b49b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbbeb0b4.css",
-    "static/js/main.d3eae85b.js"
+    "static/css/main.90aff9a4.css",
+    "static/js/main.20c5b5b9.js"
   ]
 }
