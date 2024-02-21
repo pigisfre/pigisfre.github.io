@@ -32,7 +32,7 @@ const About = () => {
 
     return(
       <>
-      <div className="card">
+      <div className="card" id='about'>
     <ReactCarousel
       className="react-carousel"
       showArrows={false}
